@@ -36,7 +36,7 @@ For the enclosure, we modeled it after the Plexi amp head size. For the construc
 
 For a unique finish that Marshall does not provide, we decided to use plywood and use two different colors of stain to add a nice two tone color. We chose a darker walnut stain for the outside, and a red toned stain for contrast. The effect was a really deep and unique look that looks amazing!
 
-After staining, coats of polyurathane were applied and polished with an eletric buffer and car polish for a glassy and reflective shine. 
+After staining, coats of polyurathane were applied and polished with an electric buffer and car polish for a glassy and reflective shine. 
 
 # Conclusion
 Can’t wait to see what different modifications I can add to the circuit for even more versatility!
