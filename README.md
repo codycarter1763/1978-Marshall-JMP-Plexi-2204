@@ -32,7 +32,7 @@ The build was very straightforward and there was not any issues that arose. The 
 ![IMG_6370](https://github.com/user-attachments/assets/97a4ee6b-6f1a-47db-842e-55df3a3cb883)
 
 ## Enclosure
-For the enclosure, we modeled it after the Plexi amp head size. For the construction, we made sure to add bracing inside the enclosure for structural rigidity for the 30+ pount amplifier. 
+For the enclosure, we modeled it after the Plexi amp head size. For the construction, we made sure to add bracing inside the enclosure for structural rigidity for the 30+ pound amplifier. 
 
 For a unique finish that Marshall does not provide, we decided to use plywood and use two different colors of stain to add a nice two tone color. We chose a darker walnut stain for the outside, and a red toned stain for contrast. The effect was a really deep and unique look that looks amazing!
 
